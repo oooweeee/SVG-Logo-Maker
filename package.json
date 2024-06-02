@@ -1,7 +1,7 @@
 {
   "name": "svg-logo-maker",
   "version": "1.0.0",
-  "description": "this is a svg logo maker",
+  "description": "this is a svg logo maker that will create a svg by answering questions",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.4.0",
     "inquirer": "^8.2.4",
     "jest": "^29.7.0"
   }
