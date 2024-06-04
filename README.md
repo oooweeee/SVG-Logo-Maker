@@ -39,4 +39,6 @@ these are the instructions for test once finished adding neccesary dependencies 
 For any questions, please contact me with the information below:
 - GitHub repository: https://github.com/oooweeee/SVG-Logo-Maker
 - video demo:https://drive.google.com/file/d/1pCaAHvMPUoWv41CEFF6rZqwH3JdRPEh1/view
+- MOST RECENT DEMO ⬇️
+- https://drive.google.com/file/d/11XB_KWqpbof2CCwZ5DISerBoBI4H7FDi/view?usp=sharing
 
