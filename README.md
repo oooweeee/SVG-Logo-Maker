@@ -18,14 +18,8 @@ inquirer will be required
 
 ## Usage
 this is all the details about usage for this
-<img src="./screenShots/Screenshot 2024-06-03 213748.png
-alt="svgLogoMaker">
+![Screenshot 2024-06-03 213748](https://github.com/oooweeee/SVG-Logo-Maker/assets/164698927/9bb22f8c-54e3-4b89-98b8-6fce303e4a70)
 
-<img src="./screenShots/Screenshot 2024-06-03 213814.png
-alt="svgLogoMaker">
-
-<img src="./screenShots/Screenshot 2024-06-03 213833.png
-alt="svgLogoMaker">
 
 ## License
 This project is licensed under the MIT license.
