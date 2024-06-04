@@ -1,5 +1,5 @@
 const inquirer = require('inquirer')
-const shapes = require('./lib/shapes.js');
+const Shapes = require('./lib/shapes.js');
 const shapeChoices = ["circle","triangle","square"];
 
 class CLI{
@@ -24,7 +24,7 @@ class CLI{
             // this is where we are going to ask for  a color to be used for text
             type:"input",
             message: "Enter a color keyword for your text color:",
-            name:"textcolor"
+            name:"textColor"
          },   
          
         {
@@ -35,8 +35,8 @@ class CLI{
         },
     {
         // this is where we are going to ask what shape to use 
-        type: "input",
-        message:"pleas select the shape you would like to use",
+        type: "list",
+        message:"please select the shape you would like to use",
         name:"shape",
         choices:shapeChoices
     }
